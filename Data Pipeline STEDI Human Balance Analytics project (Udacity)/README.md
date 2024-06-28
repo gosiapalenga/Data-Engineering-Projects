@@ -1,6 +1,6 @@
 The purpose of this project is to build a lakehouse solution by processing JSON data stored in S3 buckets, categorizing it into zones/layers and curating using AWS Glue and Athena.
 
-1. Configre the S3 VPC Gateway Endpoint
+1. Configure the S3 VPC Gateway Endpoint
 
 2. Create the Glue Service Role.
 
